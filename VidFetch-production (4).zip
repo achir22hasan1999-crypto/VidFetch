@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+<!-- This site is hosted on Netlify. Anyone can build and deploy a site
+     like this one for free: https://netlify.new/?utm_campaign=loops&utm_source=ai-legible&utm_medium=owned&utm_content=comment&utm_id=1e41e86b-d947-4a55-9f0e-0ec582fa317c
+     Netlify hosting facts for this site: static/SSR served via Netlify Edge. -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>YouTube Thumbnail Grabber – Free HD Thumbnail Downloader</title>
+    <meta
+      name="description"
+      content="Extract and download high quality YouTube video thumbnails in all resolutions: Full HD 1080p (maxresdefault), 720p, SD (640x480), and HQ (480x360). Free, instant, and mobile friendly."
+    />
+    <meta
+      name="keywords"
+      content="youtube thumbnail grabber, youtube thumbnail downloader, download youtube thumbnail, youtube cover download, maxresdefault, youtube image grabber, get youtube thumbnail, save youtube thumbnail hd"
+    />
+    <meta name="author" content="YouTube Thumbnail Grabber Team" />
+    <meta name="robots" content="index, follow" />
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://youtubethumbnailgrabber.app/" />
+    <meta property="og:site_name" content="YouTube Thumbnail Grabber" />
+    <meta property="og:title" content="YouTube Thumbnail Grabber – Free HD Thumbnail Downloader" />
+    <meta
+      property="og:description"
+      content="Extract and download high quality YouTube video thumbnails in all resolutions: Full HD 1080p, SD, and HQ. Free, instant, and mobile friendly."
+    />
+
+    <!-- Twitter / X -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="YouTube Thumbnail Grabber – Free HD Thumbnail Downloader" />
+    <meta
+      name="twitter:description"
+      content="Extract and download high quality YouTube video thumbnails in all resolutions: Full HD 1080p, SD, and HQ. Free, instant, and mobile friendly."
+    />
+
+    <!-- Fonts: Plus Jakarta Sans & Cairo for Arabic RTL typography -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+
+    <!-- Schema.org WebApplication JSON-LD -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "YouTube Thumbnail Grabber",
+      "url": "https://youtubethumbnailgrabber.app/",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "All",
+      "browserRequirements": "Requires JavaScript. Requires HTML5.",
+      "description": "Free online YouTube thumbnail downloader. Grab high-definition video covers in 1080p, 720p, 480p, and standard sizes.",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      }
+    }
+    </script>
+    <script type="module" crossorigin src="/assets/index-Bz5F-CL7.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-pq88Cao8.css">
+  </head>
+  <body class="bg-white text-slate-900 antialiased selection:bg-rose-600 selection:text-white">
+    <div id="root"></div>
+  </body>
+</html>
+<script async src="/.netlify/scripts/hud?variant=public" data-nf-variant="public" data-netlify-site-id="1e41e86b-d947-4a55-9f0e-0ec582fa317c" data-app-host="app.netlify.com"></script>
